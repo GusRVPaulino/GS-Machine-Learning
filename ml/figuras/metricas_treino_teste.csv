@@ -1,0 +1,8 @@
+,XGBoost · treino,XGBoost · teste,Reg. Logística · teste,Regra chuva≥30mm · teste
+PR-AUC (Average Precision),0.45,0.335,0.295,0.1
+ROC-AUC,0.946,0.917,0.878,0.64
+Precisão,0.371,0.31,0.321,0.232
+Recall (sensibilidade),0.597,0.528,0.415,0.321
+F1,0.457,0.391,0.362,0.269
+Brier (menor = melhor),0.025,0.029,0.031,0.066
+Taxa positiva (referência p/ PR-AUC),0.035,0.038,0.038,0.038
